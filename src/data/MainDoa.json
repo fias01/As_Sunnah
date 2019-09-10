@@ -1,0 +1,260 @@
+[
+	{
+		"id":"1",
+		"judul":"Doa Bangun Tidur",
+		"arab":"اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ",
+		"arablatin":"Alhamdu lillahil ladzii ahyaanaa ba'da maa amaa tanaa wa ilahin nusyuuru",
+		"terjemah":"Segala puji bagi Allah yang telah menghidupkan kami sesudah kami mati (membangunkan dari tidur) dan hanya kepada-Nya kami dikembalikan",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"2",
+		"judul":"Doa Sebelum Tidur",
+		"arab":"بِسْمِكَ اللّٰهُمَّ اَحْيَا وَاَمُوْتُ",
+		"arablatin":"Bismikallohumma ahya wa amuutu",
+		"terjemah":"Dengan menyebut nama-Mu ya Allah, aku hidup dan aku mati",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"3",
+		"judul":"Doa Menyambut Pagi hari",
+		"arab":"اَللّٰهُمَّ بِكَ اَصْبَحْنَا وَبِكَ اَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ النُّشُوْرُ",
+		"arablatin":"Alloohumma bika ashbahnaa wa bika amsainaa wa bika nahyaa wa bika namuutu wa ilaikan nusyuuru",
+		"terjemah":"Ya Allah, karena Engkau kami mengalami waktu pagi dan waktu petang, dan karena Engkau kami hidup dan mati dan kepada-Mu juga kami akan kembali.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"4",
+		"judul":"Doa Menyambut Sore Hari",
+		"arab":"اَللّٰهُمَّ بِكَ اَمْسَيْنَا وَبِكَ اَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ الْمَصِيْرُ",
+		"arablatin":"Alloohumma bika amsainaa wa bika ashbahnaa wa bika nahyaa wa bika namuutu wa ilaikal mashiir",
+		"terjemah":"Ya Allah, karena Engkau kami mengalami waktu petang dan waktu pagi, karena Engkau kami hidup dan mati dan kepada-Mu juga kami akan kembali.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"5",
+		"judul":"Doa Sebelum Makan",
+		"arab":"اَللّٰهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+		"arablatin":"Alloohumma barik lanaa fiimaa razatanaa waqinaa 'adzaa bannar",
+		"terjemah":"Ya Allah, berkahilah kami dalam rezeki yang telah Engkau berikan kepada kami dan peliharalah kami dari siksa api neraka",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"6",
+		"judul":"Doa Setelah Makan",
+		"arab":"اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْ",
+		"arablatin":"Alhamdu lillaahil ladzii ath'amanaa wa saqoonaa wa ja'alnaa muslimiin",
+		"terjemah":"Segala puji bagi Allah yang telah memberi makan kami dan minuman kami, serta menjadikan kami sebagai orang-orang islam",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"7",
+		"judul":"Doa Ketika Makan Lupa Membaca Doa",
+		"arab":"بِسْمِ اللهِ فِىِ أَوَّلِهِ وَآخِرِهِ",
+		"arablatin":"Bismillaahi fii awwalihi wa aakhirihi",
+		"terjemah":"Dengan menyebut nama Allah pada awal dan akhirnya",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"8",
+		"judul":"Doa Masuk Kamar Mandi",
+		"arab":"اَللّٰهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ",
+		"arablatin":"Alloohumma Innii a'uudzubika minal khubutsi wal khoaaitsi",
+		"terjemah":"Ya Allah, aku berlindung pada-Mu dari godaan syetan  laki-laki dan setan perempuan",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"9",
+		"judul":"Doa Keluar Kamar Mandi",
+		"arab":"غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ",
+		"arablatin":"Ghufraanaka. Alhamdulillaahil ladzii adzhaba ‘annjil adzaa wa’aafaanii.",
+		"terjemah":"Dengan mengharap ampunanMu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"10",
+		"judul":"Doa Memakai Pakaian",
+		"arab":"بِسْمِ اللهِ اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَاهُوَ لَهُ وَاَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَا هُوَلَهُ",
+		"arablatin":"Bismillaahi, Alloohumma innii as-aluka min khoirihi wa khoiri maa huwa lahuu wa'a'uu dzubika min syarrihi wa syarri maa huwa lahuu",
+		"terjemah":"Dengan nama-Mu yaa Allah akku minta kepada Engkau kebaikan pakaian ini dan kebaikan apa yang ada padanya, dan aku berlindung kepada Engkau dari kejahatan pakaian ini dan kejahatan yang ada padanya",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"11",
+		"judul":"Doa Melepas Pakaian",
+		"arab":"بِسْمِ اللهِ الَّذِيْ لاَ إِلَهَ إِلَّا هُوَ",
+		"arablatin":"Bismillaahil ladzii laa ilaaha illaa huwa",
+		"terjemah":"Dengan nama Allah yang tiada Tuhan selain-Nya",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"12",
+		"judul":"Doa Ketika Bercermin",
+		"arab":"اَلْحَمْدُ ِللهِ كَمَا حَسَّنْتَ خَلْقِىْ  فَحَسِّـنْ خُلُقِىْ",
+		"arablatin":"Alhamdulillaahi kamaa hassanta kholqii fahassin khuluqii",
+		"terjemah":"Segala puji bagi Allah, baguskanlah budi pekertiku sebagaimana Engkau telah membaguskan rupa wajahku",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"13",
+		"judul":"Doa Memakai Pakaian Baru",
+		"arab":"اَلْحَمْدُ لِلّٰهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّىْ وَلاَقُوَّةٍ",
+		"arablatin":"Alhamdu lillaahil ladzii kasaanii haadzaa wa rozaqoniihi min ghoiri hawlim minni wa laa quwwatin",
+		"terjemah":"Segala puji bagi Allah yang memberi aku pakaian ini dan memberi rizeki dengan tiada upaya dan kekuatan dariku",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"14",
+		"judul":"Doa Masuk Rumah",
+		"arab":"اَللّٰهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا وَعَلَى اللهِ رَبّنَا تَوَكَّلْنَا",
+		"arablatin":"Allahumma innii as-aluka khoirol mauliji wa khoirol makhroji bismillaahi wa lajnaa wa bismillaahi khorojnaa wa'alallohi robbina tawakkalnaa",
+		"terjemah":"Ya Allah, sesungguhnya aku mohon kepada-Mu baiknya tempat masuk dan baiknya tempat keluar dengan menyebut nama Allah kami masuk, dan dengan menyebut nama Allah kami keluar dan kepada Allah Tuhan kami, kami bertawakkal",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"15",
+		"judul":"Doa Keluar Rumah",
+		"arab":"بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِالله",
+		"arablatin":"Bismillaahi tawakkaltu 'alalloohi laa hawlaa walaa quwwata illaa bilaahi",
+		"terjemah":"Dengan menyebut nama Allah aku bertawakal kepada Allah, tiada daya kekuatan melainkan dengan pertologan Allah.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"16",
+		"judul":"Doa Berpergian",
+		"arab":"اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّابُعْدَهُ اَللّٰهُمَّ اَنْتَ الصَّاحِبُ فِى السَّفَرِوَالْخَلِيْفَةُفِى الْاَهْلِ",
+		"arablatin":"Alloohumma hawwin 'alainaa safaranaa hadzaa waatwi 'annaa bu'dahu. Alloohumma antashookhibu fiissafari walkholiifatu fiil ahli",
+		"terjemah":"Ya Allah, mudahkanlah kami berpergian ini, dan dekatkanlah kejauhannya. Ya Allah yang menemani dalam berpergian, dan Engkau pula yang melindungi keluarga.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"17",
+		"judul":"Doa Naik Kendaraan",
+		"arab":"سُبْحَانَ الَّذِىْ سَخَّرَلَنَا هَذَا وَمَاكُنَّالَهُ مُقْرِنِيْنَ وَاِنَّآ اِلَى رَبِّنَا لَمُنْقَلِبُوْنَ",
+		"arablatin":"Subhaanalladzii sakkhara lanaa hadza wama kunna lahu muqriniin wa-inna ilaa rabbina lamunqalibuun.",
+		"terjemah":"Maha suci Allah yang telah menundukkan untuk kami (kendaraan) ini. padahal sebelumnya kami tidak mampu untuk menguasainya, dan hanya kepada-Mu lah kami akan kembali ",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"18",
+		"judul":"Doa Ketika Sampai Tujuan",
+		"arab":"اَلْحَمْدُ ِللهِ الَّذِى سَلَمَنِى وَالَّذِى اَوَنِى وَالَّذِى جَمَعَ الشَّمْلَ بِ",
+		"arablatin":"Alhamdulillahil ladzi sallamani wal ladzi awani wal ladzi jama’asy syamla bi.",
+		"terjemah":"Segala puji bagi Allah, yang telah menyelamatkan akau dan yang telah melindungiku dan yang mengumpulkanku dengan keluargaku",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"19",
+		"judul":"Doa Sebelum Belajar",
+		"arab":"يَارَبِّ زِدْنِىْ عِلْمًا وَارْزُقْنِىْ فَهْمًا",
+		"arablatin":"Yaa robbi zidnii 'ilman warzuqnii fahmaa",
+		"terjemah":"Ya Allah, tambahkanlah aku ilmu dan berikanlah aku rizqi akan kepahaman",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"20",
+		"judul":"Doa Memohon Ilmu Yang Bermanfaat",
+		"arab":"اَللّٰهُمَّ اِنِّى اَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلاً مُتَقَبَّلاً",
+		"arablatin":"Alloohumma innii as-aluka 'ilmaan naafi'aan wa rizqoon thoyyibaan wa 'amalaan mutaqobbalaan",
+		"terjemah":"Ya Allah, sesungguhnya aku mohon kepada-Mu ilmu yang berguna, rezki yang baik dan amal yang baik Diterima. (H.R. Ibnu Majah)",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"21",
+		"judul":"Doa Sesudah Belajar",
+		"arab":"اَللّٰهُمَّ اِنِّى اِسْتَوْدِعُكَ مَاعَلَّمْتَنِيْهِ فَارْدُدْهُ اِلَىَّ عِنْدَ حَاجَتِىْ وَلاَ تَنْسَنِيْهِ يَارَبَّ الْعَالَمِيْنَ",
+		"arablatin":"Allaahumma innii astaudi'uka maa 'allamtaniihi fardud-hu ilayya 'inda haajatii wa laa tansaniihi yaa robbal 'alamiin",
+		"terjemah":"Ya Allah, sesungguhnya aku menitipkan kepada Engkau ilmu-ilmu yang telah Engkau ajarkan kepadaku, dan kembalikanlah kepadaku sewaktu aku butuh kembali dan janganlah Engkau lupakan aku kepada ilmu itu wahai Tuhan seru sekalian alam.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"22",
+		"judul":"Doa Setelah Adzan",
+		"arab":"اَللهُمَّ رَبَّ هذِهِ الدَّعْوَةِ التَّآمَّةِ، وَالصَّلاَةِ الْقَآئِمَةِ، آتِ مُحَمَّدَانِ الْوَسِيْلَةَ وَالْفَضِيْلَةَ وَالشَّرَفَ وَالدَّرَجَةَ الْعَالِيَةَ الرَّفِيْعَةَ وَابْعَثْهُ مَقَامًامَحْمُوْدَانِ الَّذِىْ وَعَدْتَهُ اِنَّكَ لاَتُخْلِفُ الْمِيْعَادَ يَآاَرْحَمَ الرَّحِمِيْنَ",
+		"arablatin":"Alloohumma Robba Haadzihid da’watit taammati washsholaatil qoo-imati aati muhammadanil waashiilata wal fadhiilata wasy syarofa wad darajatal ‘aaliyatar rofii’ata wab’atshu maqoomam mahmuudanilladzi wa’adtah innaka laa tukhliful mii’aada ya arhamar roohimiina",
+		"terjemah":"Ya Allah Tuhan yang memiliki seruan yang sempurna dan shalat yang tetap didirikan, kurniailah Nabi Muhammad wasilah (tempat yang luhur) dan kelebihan serta kemuliaan dan derajat yang tinggi dan tempatkanlah dia pada kependudukan yang terpuji yang telah Engkaujanjikan, sesungguhnya Engkau tiada menyalahi janji, wahai dzat yang paling Penyayang",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"23",
+		"judul":"Doa Niat Wudhu",
+		"arab":"نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا لِلّٰهِ تَعَالَى",
+		"arablatin":"Nawaitul whudu-a lirof'il hadatsii ashghori fardhon lillaahi ta'aalaa",
+		"terjemah":"Saya niat berwudhu untuk menghilangkan hadast kecil fardu (wajib) karena Allah ta'ala",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"24",
+		"judul":"Doa Setelah Wudhu",
+		"arab":"اَشْهَدُ اَنْ لاَّاِلَهَ اِلاَّاللهُ وَحْدَهُ لاَشَرِيْكَ لَهُ وَاَشْهَدُ اَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اَللّٰهُمَّ اجْعَلْنِىْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِىْ مِنَ الْمُتَطَهِّرِيْنَ، وَجْعَلْنِيْ مِنْ عِبَادِكَ الصَّالِحِيْ",
+		"arablatin":"Asyhadu allaa ilaaha illalloohu wahdahuu laa syariika lahu wa asyhadu anna muhammadan ‘abduhuuwa rosuuluhuu, alloohummaj’alnii minat tawwaabiina waj’alnii minal mutathohhiriina, waj'alnii min 'ibadikash shaalihiina.",
+		"terjemah":"Aku bersaksi, tidak ada Tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, dan aku mengaku bahwa Nabi Muhammad itu adalah hamba dan Utusan Allah. Ya Allah, jadikanlah aku dari golongan orang-orang yang bertaubat dan jadikanlah aku dari golongan orang-orang yang suci dan jadikanlah aku dari golongan hamba-hamba Mu yang shaleh",
+		"sumber":"http://www.doaharianislami.com",
+	},
+
+	{
+		"id":"25",
+		"judul":"Doa Ketika Menuju Masjid",
+		"arab":"اَللّٰهُمَّ اجْعَلْ فِىْ قَلْبِى نُوْرًا وَفِى لِسَانِىْ نُوْرًا وَفِىْ بَصَرِىْ نُوْرًا وَفِىْ سَمْعِىْ نُوْرًا وَعَنْ يَسَارِىْ نُوْرًا وَعَنْ يَمِيْنِىْ نُوْرًا وَفَوْقِىْ نُوْرًا وَتَحْتِىْ نُوْرًا وَاَمَامِىْ نُوْرًا وَخَلْفِىْ نُوْرًا وَاجْعَلْ لِّىْ نُوْرًا",
+		"arablatin":"Alloohummaj-'al fii qolbhii nuuroon wa fii lisaanii nuuroon wa fii bashorii nuuroon wa fii sam'ii nuuroon wa'an yamiinii nuuroon wa'an yasaarii nuuroon wa fauqii nuuroo wa tahtii nuuroo wa amaamii nuuroon wa khofii nuuroon waj-'al lii nuuroon",
+		"terjemah":"Ya Allah, jadikanlah dihatiku cahaya, pada lisanku cahaya dipandanganku cahaya, dalam pendengaranku cahaya, dari kananku cahaya, dari kiriku cahaya, dari atasku cahaya, dari bawahku cahaya, dari depanku cahaya, belakangku cahaya, dan jadikanlah untukku cahaya.(H.R. Bukhari dan Muslim)",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"26",
+		"judul":"Doa Masuk Masjid",
+		"arab":"اَللّٰهُمَّ افْتَحْ لِيْ اَبْوَابَ رَحْمَتِكَ",
+		"arablatin":"Allahummaf tahlii abwaaba rohmatik",
+		"terjemah":"Ya Allah, bukalah untukku pintu-pintu rahmat-Mu",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"27",
+		"judul":"Doa Keluar Masjid",
+		"arab":"اَللّٰهُمَّ اِنِّى اَسْأَلُكَ مِنْ فَضْلِكَ",
+		"arablatin":"Allahumma innii asaluka min fadlik",
+		"terjemah":"Ya Allah, sesungguhnya aku memohon keutamaan dari-Mu",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"28",
+		"judul":"Doa Akan Membaca Al-Qur'an",
+		"arab":"اَللّٰهُمَّ افْتَحْ عَلَىَّ حِكْمَتَكَ وَانْشُرْ عَلَىَّ رَحْمَتَكَ وَذَكِّرْنِىْ مَانَسِيْتُ يَاذَاالْجَلاَلِ وَاْلاِكْرَامِ",
+		"arablatin":"Alloohummaftah 'alayya hikmataka wansyur 'alayya rohmataka wa dzakkirnii maanasiitu yaa dzal jalaali wal ikhroomi",
+		"terjemah":"Ya Allah bukakanlah hikmahMu padaku, bentangkanlah rahmatMu padaku dan ingatkanlah aku terhadap apa yang aku lupa, wahai Dzat yang memiliki keagungan dan kemuliaan.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+	{
+		"id":"29",
+		"judul":"Doa Setelah Membaca Al-Qur'an",
+		"arab":"اَللّٰهُمَّ ارْحَمْنِىْ بِالْقُرْآنِ. وَاجْعَلْهُ لِىْ اِمَامًا وَنُوْرًا وَّهُدًى وَّرَحْمَةً. اَللّٰهُمَّ ذَكِّرْنِىْ مِنْهُ مَانَسِيْتُ وَعَلِّمْنِىْ مِنْهُ مَاجَهِلْتُ. وَارْزُقْنِىْ تِلاَ وَتَهُ آنَآءَ اللَّيْلِ وَاَطْرَافَ النَّهَارٍ. وَاجْعَلْهُ لِىْ حُجَّةً يَارَبَّ الْعَالَمِيْ",
+		"arablatin":"Allahummarhamnii bil qur'aani. waj'alhu lii imaaman wa nuuran wa hudan wa rohman. Allahumma dzakkirnii minhu maa nasiitu wa'allimnii minhu maa jahiltu. wazuqnii tilaa watahu aanaa-al laili wa athroofan nahaari. waj'alhu lii hujjatan yaa robbal 'aalamiina.",
+		"terjemah":"Ya Allah, rahmatilah aku dengan Al-Quran yang agung, jadikanlah ia bagiku ikutan cahaya petunjuk rahmat. Ya Allah, ingatkanlah apa yang telah aku lupa dan ajarkan kepadaku apa yang tidak aku ketahui darinya, anugerahkanlah padaku kesempatan membacanya pada sebagian malam dan siang, jadikanlah ia hujjah yang kuat bagiku, wahai Tuhan seru sekalian alam.",
+		"sumber":"http://www.doaharianislami.com",
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

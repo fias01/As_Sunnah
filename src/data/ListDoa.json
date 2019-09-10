@@ -1,0 +1,123 @@
+[
+	{
+		"id":"1",
+		"judul":"Doa Bangun Tidur",
+	},
+	{
+		"id":"2",
+		"judul":"Doa Sebelum Tidur",
+	},
+	{
+		"id":"3",
+		"judul":"Doa Menyambut Pagi hari",
+	},
+	{
+		"id":"4",
+		"judul":"Doa Menyambut Sore Hari",
+	},
+	{
+		"id":"5",
+		"judul":"Doa Sebelum Makan",
+	},
+	{
+		"id":"6",
+		"judul":"Doa Setelah Makan",
+	},
+	{
+		"id":"7",
+		"judul":"Doa Ketika Makan Lupa Membaca Doa",
+	},
+	{
+		"id":"8",
+		"judul":"Doa Masuk Kamar Mandi",
+	},
+	{
+		"id":"9",
+		"judul":"Doa Keluar Kamar Mandi",
+	},
+	{
+		"id":"10",
+		"judul":"Doa Memakai Pakaian",
+	},
+	{
+		"id":"11",
+		"judul":"Doa Melepas Pakaian",
+	},
+	{
+		"id":"12",
+		"judul":"Doa Ketika Bercermin",
+	},
+	{
+		"id":"13",
+		"judul":"Doa Memakai Pakaian Baru",
+	},
+	{
+		"id":"14",
+		"judul":"Doa Masuk Rumah",
+	},
+	{
+		"id":"15",
+		"judul":"Doa Keluar Rumah",
+	},
+	{
+		"id":"16",
+		"judul":"Doa Berpergian",
+	},
+	{
+		"id":"17",
+		"judul":"Doa Naik Kendaraan",
+	},
+	{
+		"id":"18",
+		"judul":"Doa Ketika Sampai Tujuan",
+	},
+	{
+		"id":"19",
+		"judul":"Doa Sebelum Belajar",
+	},
+	{
+		"id":"20",
+		"judul":"Doa Memohon Ilmu Yang Bermanfaat",
+	},
+	{
+		"id":"21",
+		"judul":"Doa Sesudah Belajar",
+	},
+	{
+		"id":"22",
+		"judul":"Doa Setelah Adzan",
+	},
+	{
+		"id":"23",
+		"judul":"Doa Niat Wudhu",
+	},
+	{
+		"id":"24",
+		"judul":"Doa Setelah Wudhu",
+	},
+	{
+		"id":"25",
+		"judul":"Doa Ketika Menuju Masjid",
+	},
+	{
+		"id":"26",
+		"judul":"Doa Masuk Masjid",
+	},
+	{
+		"id":"27",
+		"judul":"Doa Keluar Masjid",
+	},
+	{
+		"id":"28",
+		"judul":"Doa Akan Membaca Al-Qur'an",
+	},
+	{
+		"id":"29",
+		"judul":"Doa Setelah Membaca Al-Qur'an",
+	},
+	{
+	 	"id":"30",
+		"judul":"Doa Minta Jodoh",
+	}
+
+]
